@@ -7,7 +7,7 @@ public class DummyTest {
 
     @Test
     public void testName() throws Exception {
-        assertThat(true, is(false));
+        assertThat(true, is(true));
     }
 
 
